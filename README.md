@@ -1,2 +1,2 @@
-# window-friend
-he's just a lil' guy
+# Window Friend
+He's just a lil' guy
